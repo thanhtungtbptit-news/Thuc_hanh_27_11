@@ -1,0 +1,5 @@
+A = set(map(int, input("Nhập các số của A : ").split()))
+B = set(map(int, input("Nhập các số của B : ").split()))
+print("Giao:", A & B)
+print("Hợp:", A | B)
+print("Hiệu:", A - B)
