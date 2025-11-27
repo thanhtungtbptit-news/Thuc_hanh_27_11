@@ -5,3 +5,5 @@ for i in list:
         result.append(i)
 result.sort()
 print(result)
+
+
